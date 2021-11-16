@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iayushpandey](https://github.com/iayushpandey)
 
-- 💬 Ask me about **Java,Data Structures & Algorithms and Web Development**
+- 💬 Ask me about **Java, Data Structures & Algorithms and Web Development**
 
 - 📫 How to reach me **ayushpandey762@gmail.com**
 
