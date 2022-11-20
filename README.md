@@ -36,7 +36,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iayushpandey&" alt="iayushpandey" /></p>
 
 ## Support
-<p><a href="https://www.buymeacoffee.com/iayushpandey"><img src="[https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif](https://media.giphy.com/media/wQalJEIkSWUaVTXHHB/giphy.gif)" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/iayushpandey"><img src=""https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=iayushpandey&button_colour=BD5FFF&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" /></a></p><br><br>
 
 
 <br>
