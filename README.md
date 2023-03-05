@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/iayushpandey" target="blank"><img src="https://img.shields.io/twitter/follow/iayushpandey?logo=twitter&style=for-the-badge" alt="iayushpandey" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif">
-- 🌱 I’m currently learning **Java Development**
+- 🌱 I’m currently learning **Whatever I Like**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iayushpandey](https://github.com/iayushpandey)
 
